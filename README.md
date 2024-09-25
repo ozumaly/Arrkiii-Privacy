@@ -5,7 +5,7 @@
 Please read the privacy policy below to learn more about how we collect, use, and share your personal information.
 
 # 2. Data we Collect
-Arrkiii stores user IDs for operational purposes. We do not store your username or profile picture, nor any other personal data about individual users. We only store information related to guilds, such as prefixes, 247 settings, and other parameters. If you wish to request deletion of your data, please contact me, the bot developer and owner, Moon Carli or join the [Support Server](https://discord.gg/wifey).
+Arrkiii stores user IDs for operational purposes. We do not store your username or profile picture, nor any other personal data about individual users. We only store information related to guilds, such as prefixes, 247 settings, and other parameters. If you wish to request deletion of your data, please contact me, the bot developer and owner, Ozuma or join the [Support Server](https://discord.gg/wifey).
 
 # 3. Bot rules
 By using Arrkiii, you are agreening to the following rules:
